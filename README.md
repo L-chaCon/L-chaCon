@@ -1,16 +1,20 @@
-### Hi there 👋
+Hello World!! 🌎
 
-<!--
-**L-chaCon/L-chaCon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills 🛠️
+- **Languages:** Python
+- **Frameworks & Libraries:** Django
+- **Tools & Platforms:** GitHub, Docker, AWS
+
+## Key Projects 📚
+- **Sistema Independencia - [Backend](https://github.com/independencia-datalake/sistema_independencia_backend), [Frontend](https://github.com/independencia-datalake/sistema_independencia_frontend): Lead the development of an
+
+## Professional Goals 🚀
+- **Career Development:** Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
+- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
+
+## Connect with Me <3
+- 📫: [Email](montt.octavio@gmail.com)
+- 🔗: [LinkedIn](https://www.linkedin.com/in/octaviomontt/)
